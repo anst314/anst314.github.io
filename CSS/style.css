@@ -1,0 +1,63 @@
+
+#PerScholas {
+    color: red;
+}
+
+#Expectations {
+    color: orange;
+}
+
+span {
+    color: blueviolet;
+}
+
+#div1 {
+    background-color: aqua;
+    position: relative;
+}
+
+#div2 {
+    background-color: darkcyan;
+}
+
+#div3 {
+    background-color:lightblue;
+    position: static;
+}
+
+#div4 {
+    background-color: gold;
+    position: static;
+}
+
+#div1,
+#div2,
+#div3,
+#div4 {
+    border: solid;
+}
+        h2 {
+            color: green;
+            display: block;
+        }
+
+        h3 {
+            color: green;
+            display: relative;
+        }
+
+        p {
+            color: blue;
+        }
+        body {
+            background-color: grey;
+        }
+        #Mandalorian {
+            background-color:crimson;
+        }
+        form {
+            padding: 15px;
+            background-color: brown;
+            font-style: italic;
+        }
+  
